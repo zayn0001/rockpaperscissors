@@ -68,7 +68,7 @@ export default function Dashboard() {
     return (
     <>
     <LargeText value={"Hi "+ user.displayName}/>
-        
+        hi
     <SmallText value={data}/>
     <SignOutButton/>
     </>
